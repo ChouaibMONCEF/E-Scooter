@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Zaouia Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "10$",
+    "latitude": 32.291254684397735,
+    "longitude": -9.243513395523506
+  },
+  {
+    "id": "2",
+    "title": "Matar Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "15$",
+    "latitude": 32.29319272559508,
+    "longitude": -9.231449512748632
+  },
+  {
+    "id": "3",
+    "title": "Dar Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "50$",
+    "latitude": 32.30422574286093,
+    "longitude": -9.239042944308446
+  },
+  {
+    "id": "4",
+    "title": "House Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "5$",
+    "latitude": 32.290329905693255,
+    "longitude": -9.224281223193275
+  },
+  {
+    "id": "5",
+    "title": "Youcode Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "11$",
+    "latitude": 32.320474690357194,
+    "longitude": -9.24312539152311
+  },
+  {
+    "id": "6",
+    "title": "Some Other Station",
+    "image": "image",
+    "description": "Scooter elecrique available here for everybodies usage.",
+    "price": "30$",
+    "latitude": 32.3026538779307,
+    "longitude": -9.244954801890595
+  }
+]
